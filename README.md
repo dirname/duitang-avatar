@@ -35,3 +35,11 @@ python run_album.py
 ## 结束
 
 采集结束后会显示 <b>completed</b> 字样, 随后会在图片保存路径生成一个 <b>report.txt</b> 的文件, 根据用户喜欢数对头像进行排序
+
+## 运行截图
+
++ report 排序截图
+![image](report.png)
+
++ 运行截图
+![image](run.png)
