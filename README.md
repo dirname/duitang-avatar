@@ -43,3 +43,7 @@ python run_album.py
 
 + 运行截图
 ![image](run.png)
+
+## 说明 
+
+> 仅供交流学习使用 , 请勿过度使用或用作商业等其他用途
