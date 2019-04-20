@@ -1,0 +1,1 @@
+https://github.com/dirname/duitang-avatar
